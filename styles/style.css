@@ -1,0 +1,14 @@
+/* Пользовательские стили сайта Lavender Lilacs */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fffdfc;
+}
+
+header img {
+  max-height: 500px; max-height: 500px;
+}
+
+footer {
+  font-size: 0.9rem;
+  color: #666;
+}
